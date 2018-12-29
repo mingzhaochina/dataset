@@ -1,0 +1,17 @@
+net.station
+GS.WDT  
+GS.WXT  
+SN.LUYA 
+SN.MIAX 
+XX.HSH  
+XX.JJS  
+XX.JMG  
+XX.MXI  
+XX.PWU  
+XX.QCH  
+XX.SPA  
+XX.WCH  
+XX.XCO  
+XX.XJI  
+XX.YGD  
+XX.YZP  
