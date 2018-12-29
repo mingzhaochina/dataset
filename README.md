@@ -3,6 +3,7 @@ dataset of CNN and U-net for earthquake classification and phase picking
 This is the preprocessed dataset for the paper:
 
 1.赵明,陈石,Dave.A.Yuen,2019,基于深度学习卷积神经网络的地震波形自动分类与识别,地球物理学报，62(1),待刊
+
 2.赵明，陈石，房立华，David A Yuen. 2019. 基于U形全卷积神经网络的震相识别与到时拾取方法研究. 地球物理学报，待刊.
 
 or english cite:
