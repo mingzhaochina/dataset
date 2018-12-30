@@ -16,7 +16,7 @@ The dataset includes:
 
 1.stlist.txt : list the stations where the data from.
 
-2.wenchuan_aftershocks_picks_2008_6_to_9.csv : UTC timestamps for over 25000 P and S picks of the wenchuan aftershocks （Highly credible）,you can use it to build positive samples for CNN dataset,or U-net dataset. Paper 1 and 2 will give you some instruction on how to do that.For CNN dataset you can also refer to https://github.com/mingzhaochina/ConvNetQuake.
+2.wenchuan_aftershocks_picks_2008_6_to_9.csv : UTC timestamps for over 25000 P and S picks of the wenchuan aftershocks （Highly credible）,you can use it to build positive samples for CNN dataset,or U-net dataset. If you still don't know how,Paper 1 and 2 will give you some instruction on how to do that.For CNN dataset you can also refer to https://github.com/mingzhaochina/ConvNetQuake.
 
 3.wenchuan_bold_catalog.csv:this is used to build negative samples (noises) of CNN.You need to avoid these timestamps in a range,let's say,[-60s,+60s] in the continious data. 
 
