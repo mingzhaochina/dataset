@@ -20,7 +20,9 @@ The dataset includes:
 
 3.wenchuan_bold_catalog.csv:this is used to build negative samples (noises) of CNN.You need to avoid these timestamps in a range,let's say,[-60s,+60s] in the continious data. 
 
-We cannot provide any high frequency continuous waveform data.These data belongs to CEA and CEA has the final say on how to use the data.Besides, it is too large...
+We cannot provide any high frequency continuous waveform data.These data belongs to CEA and CEA has the final say on how to use the data.
 
+Besides, it is too large...
 
+If anyone has question,comments,advices,please leave a message.We remain open to cooperation and discussion.
 
