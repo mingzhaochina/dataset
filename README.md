@@ -2,13 +2,13 @@
 dataset of CNN and U-net for earthquake classification and phase picking
 This is the preprocessed dataset for the paper below:
 
-1.赵明,陈石,Dave.A.Yuen,2019,基于深度学习卷积神经网络的地震波形自动分类与识别,地球物理学报，62(1),待刊
+1.赵明，陈石，Dave Yuen. 2019. 基于深度学习卷积神经网络的地震波形自动分类与识别. 地球物理学报, 62(1):374-382
 
 2.赵明，陈石，房立华，David A Yuen. 2019. 基于U形全卷积神经网络的震相识别与到时拾取方法研究. 地球物理学报，待刊.
 
 or english cite:
 
-1.Zhao M,Chen S,Dave Yuen. 2019. Waveform classification and seismic recognition by convolution neural network. Chinese J. Geophys. (in Chinese),62(1),in press.
+1.Zhao M,Chen S,Dave Yuen. 2019. Waveform classification and seismic recognition by convolution neural network. Chinese J. Geophys. (in Chinese),62(1),374-382.
 
 2.Zhao M, Chen S, Fang Lihua, David A Yuen.  2019. Earthquake phase arrival auto-picking based on   U-shaped convolutional neural network. Chinese J. Geophys. (in Chinese), in press.
 
