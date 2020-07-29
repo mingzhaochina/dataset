@@ -22,6 +22,8 @@ The dataset includes:
 
 We cannot provide any high frequency continuous waveform data.These data belongs to CEA and CEA has the final say on how to use the data.
 
+The Wenchuan Earthquake Aftershocks Classification Dataset can be downloaded from http://www.geodoi.ac.cn/WebEn/doi.aspx?Id=1464
+
 Besides, it is too large (more than 70GB)
 
 If anyone has question,comments,advices,please leave a message.We remain open to cooperation and discussion.
