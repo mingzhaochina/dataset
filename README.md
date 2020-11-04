@@ -1,4 +1,7 @@
 # dataset
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4243985.svg)](https://doi.org/10.5281/zenodo.4243985)
+
 dataset of CNN and U-net for earthquake classification and phase picking
 This is the preprocessed dataset for the paper below:
 
